@@ -1,0 +1,33 @@
+[
+    {"title": "Activity Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Effortlessly organize your day, prioritize tasks, and boost productivity.",
+    "skills": ["HTML", "CSS", "Js"],
+    "demo": "https://gorgeous-pastelito-e4e467.netlify.app/",
+    "source": "https://github.com/Camp4er/TodoList"
+  },
+  {
+    "title": "The Snake Game",
+    "imageSrc": "projects/project.png",
+    "description": "Guide your snake to devour tasty treats while avoiding obstacles.",
+    "skills": ["HTML", "CSS", "Js"],
+    "demo": "https://snakeats.netlify.app/",
+    "source": "https://github.com/Camp4er/The-Snake-Game"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "Experience weather tracking like never before with my intuitive, responsive weather app!",
+    "skills": ["HTML","CSS","Js","API"],
+    "demo": "https://delicate-valkyrie-6d491f.netlify.app/",
+    "source": "https://github.com/Camp4er/Weather-App"
+  },
+  {
+    "title": "GPT-3",
+    "imageSrc": "projects/project.png",
+    "description": "Discover the power of GPT-3 through my sleek, responsive website! Explore it's possibilities.",
+    "skills": ["React","Vite","Js", "Figma"],
+    "demo": "https://main--legendary-cendol-69ad02.netlify.app/",
+    "source": "https://github.com/Camp4er/GPT-3"
+  }
+]
