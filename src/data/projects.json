@@ -1,19 +1,19 @@
 [
-    {"title": "Activity Tracker",
-    "imageSrc": "projects/project.png",
-    "description": "Effortlessly organize your day, prioritize tasks, and boost productivity.",
-    "skills": ["HTML", "CSS", "Js"],
-    "demo": "https://gorgeous-pastelito-e4e467.netlify.app/",
-    "source": "https://github.com/Camp4er/TodoList"
-  },
-  {
-    "title": "The Snake Game",
-    "imageSrc": "projects/project.png",
-    "description": "Guide your snake to devour tasty treats while avoiding obstacles.",
-    "skills": ["HTML", "CSS", "Js"],
-    "demo": "https://snakeats.netlify.app/",
-    "source": "https://github.com/Camp4er/The-Snake-Game"
-  },
+  {"title": "Shopper",
+  "imageSrc": "projects/project.png",
+  "description": "Effortlessly organize your day, prioritize tasks, and boost productivity.",
+  "skills": ["HTML", "CSS", "Js", "React", "API", "Postman"],
+  "demo": "https://main--statuesque-dusk-74b82b.netlify.app",
+  "source": "https://github.com/Camp4er/e-commerce-website"
+},
+{
+  "title": "Zappify",
+  "imageSrc": "projects/project.png",
+  "description": "A frontend clone of Zaap.ai representing differently styled components in one.",
+  "skills": ["HTML", "CSS", "Js", "React"],
+  "demo": "https://zappify.netlify.app",
+  "source": "hhttps://github.com/Camp4er/Zapp-clone"
+},
   {
     "title": "Weather App",
     "imageSrc": "projects/project.png",
@@ -29,5 +29,20 @@
     "skills": ["React","Vite","Js", "Figma"],
     "demo": "https://main--legendary-cendol-69ad02.netlify.app/",
     "source": "https://github.com/Camp4er/GPT-3"
+  },
+  {"title": "Activity Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Effortlessly organize your day, prioritize tasks, manage your schedule, and boost productivity with sleek and user-friendly UI.",
+    "skills": ["HTML", "CSS", "Js"],
+    "demo": "https://gorgeous-pastelito-e4e467.netlify.app/",
+    "source": "https://github.com/Camp4er/TodoList"
+  },
+  {
+    "title": "The Snake Game",
+    "imageSrc": "projects/project.png",
+    "description": "Guide your snake to devour tasty treats to grow & score while avoiding obstacles. Relive the nostalgia.",
+    "skills": ["HTML", "CSS", "Js"],
+    "demo": "https://snakeats.netlify.app/",
+    "source": "https://github.com/Camp4er/The-Snake-Game"
   }
 ]
