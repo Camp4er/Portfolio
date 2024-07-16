@@ -85,19 +85,26 @@
 .historyItemDetails h3 {
   font-size: 30px;
   font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 3px;
 }
 
 .historyItemDetails p {
   font-size: 20px;
   font-weight: 300;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .historyItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
-  font-size: 25px;
+  font-size: 20px;
   list-style-type: disc;
   margin-left: 17px;
+}
+
+.historyItemDetails ul li {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 @media screen and (max-width: 830px) {
